@@ -1,0 +1,105 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap");
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+.mainIntro__content {
+  margin: 100px 0px;
+  padding: 10rem 0px;
+  background-image: url("../assets/main.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 10px;
+
+  .main__content {
+    margin-bottom: 3.5rem;
+  }
+
+  .main__text {
+    background-color: #f59e0b;
+    color: whitesmoke;
+    width: 17rem;
+    padding: 3px;
+    border-radius: 5px;
+  }
+
+  .main__heading {
+    color: white;
+  }
+
+  span {
+    color: #4ade80;
+  }
+
+  p {
+    color: #e2e8f0;
+    font-weight: 500;
+  }
+}
+
+.mainCustom {
+  width: 15rem 0rem;
+  padding: 15rem 0px;
+  background-image: url("../assets/intro.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 10px;
+
+  .main__content {
+    margin-bottom: 3.5rem;
+  }
+
+  .main__text {
+    background-color: #f59e0b;
+    color: whitesmoke;
+    width: 17rem;
+    padding: 3px;
+    border-radius: 5px;
+  }
+
+  .main__heading {
+    color: white;
+  }
+
+  span {
+    color: #4ade80;
+  }
+
+  p {
+    color: #e2e8f0;
+    font-weight: 500;
+  }
+}
+
+.image__skill {
+  font-size: 96px;
+}
+
+.bg1__Card {
+  padding: 15rem 0px;
+  background-image: url("../assets/end_!.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 10px;
+
+  .bg1_typography {
+    padding: 50px 0px;
+  }
+}
+
+.bg2__Card {
+  padding: 15rem 0px;
+  background-image: url("../assets/end_2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 10px;
+
+  .bg2_typography {
+    padding: 50px 0px;
+  }
+}
